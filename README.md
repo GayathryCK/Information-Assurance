@@ -1,2 +1,2 @@
 # Information-Assurance
-Contains project on cybersecurity
+The repository includes the entire codebase and architecture diagrams for research on deepfake detection through deep learning models. This study tests and evaluates four advanced architectures including InceptionResNetV2, VGG19, CNN, and Xception to determine their effectiveness in detecting manipulated media. Researchers trained and assessed the models with data from the Kaggle Deepfake Detection Challenge dataset.
